@@ -9,9 +9,9 @@ The biggest thing to take away is that
    1. Example
    1. Why it is a bad choice
 
-2. Prototype Inheritance
+2. Class Inheritance
    2. Example
-   2. Why it is a better choice
+   2. Why it is a bad choice
 
 
 ## Class Inheritance
