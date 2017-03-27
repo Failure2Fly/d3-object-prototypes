@@ -10,8 +10,8 @@ The biggest thing to take away is that
    1. Why it is a bad choice
 
 2. Prototype Inheritance
-    2. Example
-    2. Why it is a better choice
+   2. Example
+   2. Why it is a better choice
 
 
 ## Class Inheritance
@@ -68,7 +68,7 @@ test('Class Inheritance', nest => {
 
 ### Why it is a bad choice
 
-As you can see when doing down through the code each class extends the other. <strong>BassAmp</strong> extends <strong>GuitarAmp</strong>, <strong>ChannelStrip</strong> extends <strong>BassAmp</strong> and it would continue this way until it was finished. If you had to change something within <strong>ChannelStrip</strong> you would have to alter the other classes. This is not effiecent and you will be spending more time writing , re-writing, writing, and re-writing code than you should have to. 
+As you can see when going down through the code each class extends the other. <strong>BassAmp</strong> extends <strong>GuitarAmp</strong>, <strong>ChannelStrip</strong> extends <strong>BassAmp</strong> and it would continue this way until it was finished. If you had to change something within <strong>ChannelStrip</strong> you would have to alter the other classes. This is not effiecent and you will be spending more time writing , re-writing, writing, and re-writing code than you should have to. 
 
 
 ## Prototype Inheritance
